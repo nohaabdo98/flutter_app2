@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261022786634",
+    "project_id": "courseflutter-37a68",
+    "storage_bucket": "courseflutter-37a68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261022786634:android:fe105ba609c5df5e01f2b3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261022786634-k6aqj4fkq50dm68l7774ll54i900ucon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app2",
+            "certificate_hash": "3e60ac9c79d4bd82fb4b55b22b8541144e6d3da0"
+          }
+        },
+        {
+          "client_id": "261022786634-kdho2pemf8hebt1m1iflofnhg3rns27q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA0ODPHj9d6lHdS5A5j7rVb45MUiWdUJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261022786634-kdho2pemf8hebt1m1iflofnhg3rns27q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
